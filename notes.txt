@@ -1,0 +1,2 @@
+Site simulador de Hamburgueria desenvoldido para estudos.
+Tecnologias utilizadas: html, css, javascript, tailwind, node.js
